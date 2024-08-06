@@ -3,9 +3,9 @@ import { type Metadata } from 'next'
 import { Projects } from '~/app/(main)/projects/Projects'
 import { Container } from '~/components/ui/Container'
 
-const title = '我的项目'
+const title = '推荐项目'
 const description =
-  '多年来，我一直在做各种各样的小项目，这里就是我筛选出来我觉得还不错的项目合集，也是我在技术领域中尝试和探索的最好见证。'
+  '挖掘Github优质开源项目,帮助用户发现有趣、实用、流行、好玩的开源项目'
 export const metadata = {
   title,
   description,
@@ -25,12 +25,11 @@ export default function ProjectsPage() {
     <Container className="mt-16 sm:mt-32">
       <header className="max-w-2xl">
         <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-          我过去的项目冒险之旅。
+          挖掘 Github 有趣、入门级开源项目。
         </h1>
         <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-          多年来，我一直在做各种各样的小项目，有<b>开源</b>的，有<b>实验</b>
-          的，也有 <b>just for fun </b>
-          的，下面就是我筛选出来我觉得还不错的项目合集，也是我在技术领域中尝试和探索的最好见证。
+          兴趣是最好的老师，这里能够帮你找到编程的兴趣，让你用很短时间感受到开源的魅力，爱上开源！
+          下面就是我筛选出来我觉得还不错的项目，也是我在技术领域中尝试和探索的最好见证。
         </p>
       </header>
       <div className="mt-16 sm:mt-20">
