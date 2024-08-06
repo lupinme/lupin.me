@@ -47,7 +47,7 @@ export default function Layout({
                   href="https://cali.so"
                   className="text-zinc-700 underline"
                 >
-                  <strong>Cali Castle</strong>
+                  <strong>LUPIN ME</strong>
                 </Link>
                 <br />
                 开发者、架构师、IT运维、个人博客
