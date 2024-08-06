@@ -118,7 +118,7 @@ export async function Footer() {
               <p className="text-sm text-zinc-500/80 dark:text-zinc-400/80">
                 &copy; {new Date().getFullYear()} LUPIN ME. 推荐云服务器：
                 <PeekabooLink href="https://www.aliyun.com/minisite/goods?userCode=8g7phepa">
-                  GitHub
+                  阿里云
                 </PeekabooLink>
               </p>
               <Links />
