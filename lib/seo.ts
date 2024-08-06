@@ -1,10 +1,10 @@
 export const seo = {
-  title: 'Cali Castle | 开发者、设计师、细节控、创始人',
+  title: 'LUPIN ME | 开发者、架构师、IT运维、个人博客',
   description:
-    '我叫 Cali，一名开发者，设计师，细节控，同时也是佐玩创始人，目前带领着佐玩致力于创造一个充满创造力的工作环境，同时鼓励团队创造影响世界的产品。',
+    '我叫 LUPIN，一名IT工程师，本站关注互联网以及分享IT运维工作经验的个人博客，由教程、生活随笔以及软件分享等分类组成。',
   url: new URL(
     process.env.NODE_ENV === 'production'
-      ? 'https://cali.so'
+      ? 'https://lupin.me'
       : 'http://localhost:3000'
   ),
 } as const
