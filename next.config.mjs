@@ -25,37 +25,37 @@ const nextConfig = {
     return [
       {
         "source": "/twitter",
-        "destination": "https://x.com/thecalicastle",
+        "destination": "https://x.com/lupinmecn",
         "permanent": true
       },
       {
         "source": "/x",
-        "destination": "https://x.com/thecalicastle",
+        "destination": "https://x.com/lupinmecn",
         "permanent": true
       },
       {
         "source": "/youtube",
-        "destination": "https://youtube.com/@calicastle",
+        "destination": "https://www.youtube.com/@chnLupin",
         "permanent": true
       },
       {
         "source": "/tg",
-        "destination": "https://t.me/cali_so",
+        "destination": "https://t.me/lupin_me",
         "permanent": true
       },
       {
         "source": "/linkedin",
-        "destination": "https://www.linkedin.com/in/calicastle/",
+        "destination": "https://t.me/lupin_me",
         "permanent": true
       },
       {
         "source": "/github",
-        "destination": "https://github.com/CaliCastle",
+        "destination": "https://github.com/lupinme",
         "permanent": true
       },
       {
         "source": "/bilibili",
-        "destination": "https://space.bilibili.com/8350251",
+        "destination": "https://space.bilibili.com/692964587",
         "permanent": true
       }
     ]
