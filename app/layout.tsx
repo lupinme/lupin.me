@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     default: seo.title,
   },
   description: seo.description,
-  keywords: 'Cali,Cali Castle,郭晓楠,佐玩,创始人,CEO,开发者,设计师,细节控,创新',
+  keywords: 'LUPIN,LUPIN ME,架构师,云计算,个人博客,软件下载,开发者,教程,廖彬',
   manifest: '/site.webmanifest',
   robots: {
     index: true,
@@ -34,13 +34,13 @@ export const metadata: Metadata = {
   openGraph: {
     title: {
       default: seo.title,
-      template: '%s | Cali Castle',
+      template: '%s | LUPIN ME',
     },
     description: seo.description,
-    siteName: 'Cali Castle',
+    siteName: 'LUPIN ME',
     locale: 'zh_CN',
     type: 'website',
-    url: 'https://cali.so',
+    url: 'https://lupin.me',
   },
   twitter: {
     site: '@thecalicastle',
